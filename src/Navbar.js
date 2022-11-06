@@ -71,11 +71,11 @@ const Navbar = () => {
       ],
     },
     {
-      label: "Form1",
+      label: "Form",
       icon: "pi pi-fw pi-user",
       items: [
          {
-          label: "Form1",
+          label: "Register Form",
           icon: "pi pi-fw pi-user",
           url:"/form"
         },
